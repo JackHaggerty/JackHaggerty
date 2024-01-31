@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JackHaggerty
 - 👀 I’m interested in becoming a better software engineer!
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently in my final year of my bachelor of software engineering
 - 📫 How to reach me jackjhaggerty@gmail,com
 
 <!---
